@@ -40,6 +40,3 @@ Write a C program to show use of file handling (write into a text file).
 Write a C program to implement linear search.
 ### Question 17.)
 Write a C program to implement Bubble sort
-
-
-
